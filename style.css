@@ -5,3 +5,7 @@ h1{
 ol{
     background-color: aquamarine;
 }
+
+div{
+    border: 1rem solid black;
+}
